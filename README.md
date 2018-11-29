@@ -12,6 +12,7 @@ The Movie directory focuses on analyzing user/movie data to use a hybrid DNN rec
 
 #### Colab links
 Hybrid-Movie-Recommender-Data-Processing: https://drive.google.com/open?id=1XC0z4G2TKftLC8Ia4o3wdFCf82nvCw4_
+
 Hybrid-Model: https://drive.google.com/open?id=1E8uxPq6S0Wj_vBcpW9jiMY7rBiiAJYEk
 
 ### aniRec
@@ -20,6 +21,9 @@ The Anime directory focuses on analyzing features of both TV shows and users in-
 
 #### Colab links
 autoencoder_recommendation: https://drive.google.com/open?id=1ICnoJo44j5IiS_hInmcmdTYHx8rJDhFn
+
 content_based_recommendation: https://drive.google.com/open?id=1foGGdyvKeu24aEobRtcbfj4f8oZZ2uoX
+
 users_EDA: https://drive.google.com/open?id=1FPV3twfDU9OF9C7q5M5tvrEnnIz5Cc6X
+
 animes_EDA: https://drive.google.com/open?id=1hOqK3tOYMClZPENX21CiC4aWdVvD3F7g
