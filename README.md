@@ -11,7 +11,8 @@ and MAL Kaggle dataset containing over 30M user ratings and 14K different shows.
 The Movie directory focuses on analyzing user/movie data to use a hybrid DNN recommendation engine that takes in both user, movie, and rating embeddings for user ratings prediciton. Synthetic features and dimensionality reduction techniques such as PCA were applied to tackle data sparcity issues. Keras models were used for ratings prediction. For similar attempt on using google's wide-and-deep DNN architecture, please check **wide-and-deep-recommender** repository for tensorflow application built for training on GCP's cloud ML engine.
 
 #### Colab links
-Hybrid-Movie-Recommender-Data-Processing: https://drive.google.com/open?id=1XC0z4G2TKftLC8Ia4o3wdFCf82nvCw4_
+Hybrid-Movie-Recommender-Data-Processing: 
+https://drive.google.com/open?id=1XC0z4G2TKftLC8Ia4o3wdFCf82nvCw4_
 
 Hybrid-Model: https://drive.google.com/open?id=1E8uxPq6S0Wj_vBcpW9jiMY7rBiiAJYEk
 
