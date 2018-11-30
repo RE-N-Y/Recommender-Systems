@@ -12,6 +12,7 @@ The Movie directory focuses on analyzing user/movie data to use a hybrid DNN rec
 
 #### Colab links
 Hybrid-Movie-Recommender-Data-Processing: 
+
 https://drive.google.com/open?id=1XC0z4G2TKftLC8Ia4o3wdFCf82nvCw4_
 
 Hybrid-Model: https://drive.google.com/open?id=1E8uxPq6S0Wj_vBcpW9jiMY7rBiiAJYEk
