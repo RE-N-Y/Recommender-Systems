@@ -4,7 +4,7 @@
 Recommender systems are one of the most important applications in data scinece and machine learning.
 The repsitory focuses on analyzing MovieLens 1M data for rating prediction and Myanimelist dataset for analyzing
 Japanese Animation preferences in large internet community myanimelist. The datasets were from official GroupLens website
-and MAL Kaggle dataset containing over 30M user ratings and 14K different shows. Feel free to go into either directory to view both data processing and feature engineering process. Please view colab links for full examples
+and MAL Kaggle dataset containing over 30M user ratings and 14K different shows. Feel free to go into either directory to view both data processing and feature engineering process. Please view colab links for full examples.
 
 ### movieRec
 
@@ -19,7 +19,7 @@ Hybrid-Model: https://drive.google.com/open?id=1E8uxPq6S0Wj_vBcpW9jiMY7rBiiAJYEk
 
 ### aniRec
 
-The Anime directory focuses on analyzing features of both TV shows and users in-depth. The dataset contains over 20 features for each TV show and user making it a much difficult problem to tackle compared to MovieLens data which is known to have very tidy data. Some of the additonal data were crawled from the internet using a custom Java crawler and also a Python Scrapy spider. These projects can be found in **Recommendation-Engine-Data-Extractor-Java** or **Recommendation-Engine-Data-Extractor-Python** repositories. The EDA notebooks focus on cleaning messy data and adding synthetic features for better recommendations. Regarding the acutal recommendation models, the **content-based-recommendation** notebook focuses on using different similarity matrix for top-N recommendations given a certain show. The **autoencoder** notebook takes pure ratings matrix with Pytorch to build a custom autoencoder for predicting user ratings. In the future, custom SVD++ and Hybrid model with RBM are planning to be added.
+The Anime directory focuses on analyzing features of both TV shows and users in-depth. The dataset contains over 20 features for each TV show and user making it a much difficult problem to tackle compared to MovieLens data which is known to have very tidy data. Some of the additonal data were crawled from the internet using a custom Java crawler and also a Python Scrapy spider. These projects can be found in **Recommendation-Engine-Data-Extractor-Java** or **Recommendation-Engine-Data-Extractor-Python** repositories. The EDA notebooks focus on cleaning messy data and adding synthetic features for better recommendations. Regarding the acutal recommendation models, the **content-based-recommendation** notebook focuses on using different similarity matrix for top-N recommendations given a certain show. **NLP** techniques such as TFDIF vectorizers were used to compare content similairty by exactracting features from plot summaries. The **autoencoder** notebook takes pure ratings matrix with Pytorch to build a custom autoencoder for predicting user ratings. In the future, custom SVD++ and Hybrid model with RBM are planning to be added.
 
 #### Colab links
 autoencoder_recommendation: https://drive.google.com/open?id=1ICnoJo44j5IiS_hInmcmdTYHx8rJDhFn
